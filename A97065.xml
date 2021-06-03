@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A mite to the treasury, of consideration in the Common-Wealth, by severall queries, and such like particulars, in reference to its present state, a representative, religion, law, tythes, lords of manors, taxes and excise, publick debts, accounts, liberty, &amp;c. By J.W. a well-wisher to the publique.</title>
+            <author>J. W., well-wisher to the publique.</author>
+         </titleStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97065</idno><idno type="EEBO-CITATION">99863724</idno>
+  <idno type="VID">115937</idno>
+  <idno type="EEBO-PROQUEST">2240907311</idno>
+  
+            <idno type="STC">Wing W60</idno>
+            <idno type="STC">Thomason E694_5a</idno>
+            <idno type="PROQUEST">99863724</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99863724e"/>
+            <note>(EEBO-TCP ; phase 2, no. A97065)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115937)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 107:E694[5a])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A mite to the treasury, of consideration in the Common-Wealth, by severall queries, and such like particulars, in reference to its present state, a representative, religion, law, tythes, lords of manors, taxes and excise, publick debts, accounts, liberty, &amp;c. By J.W. a well-wisher to the publique.</title>
+                  <author>J. W., well-wisher to the publique.</author>
+               </titleStmt>
+               <extent>19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T. Newcomb, dwelling in Thames-street over against Baynards Castle.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "its present state, .. liberty, &amp;c." are bracketed together on title page.</note>
+                  <note>Variant 1: quire C wrongly imposed; last four pages paginated 17, [blank], 19, 18. Variant 2: quire C wrongly imposed in another way or mispaginated; last four pages paginated 17, [blank], 18, 19.</note>
+                  <note>Annotation on Thomason copy: "May. 5.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>With: The declaration of the Esquire at Arms. [London? : s.n., 1653].</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Treasury --  Administration --  Early works to 1800.</term>
+               <term type="topical_term">Finance, Public --  Great Britain --  To 1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115937:1"/>
+            <p>A MITE TO THE TREASVRY, Of consideration in the COMMON-WEALTH, By severall Queries, and such like particulars, In reference to Its present State, A Representative, Religion, Law, Tythes, Lords of Manors, Taxes and Excise, Publick debts, Accounts, Liberty, &amp;c.</p>
+            <p>By <hi>J. W.</hi> a Well-wisher to the Publique.</p>
+            <q>
+               <bibl>
+                  <hi>JOB 9.4, 5, 6.</hi>
+               </bibl>
+               <p>
+                  <hi>GOD</hi>—He is wise in heart, and mighty in strength: who hath hardened himself against him and hath pro<g ref="char:EOLhyphen"/>spered? Which removeth the mountains and they know not; which overturneth them in his anger; which shaketh the earth out of her place, and the pillars thereof tremble.</p>
+            </q>
+            <p>
+               <hi>London,</hi> printed by <hi>T. Newcomb,</hi> dwelling in Thames-street over against Baynards Castle. 1653.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:115937:2"/>
+            <pb n="3" facs="tcp:115937:2"/>
+            <head>To the Impartiall Reader.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving considered the present Extraordinary Vicissitudes, and that it is acknowledged by most Rationall men, That the Power is Primarily and Originally in the People, it may not be unseasonable to present to publique view the ensuing particulars and Queries, not<g ref="char:EOLhyphen"/>withstanding the unworthiness and dis-ability of the undertaker in so weighty a work, for that some small benefit (at least) may accrue to the Publike therby, supposing every one is now cal<g ref="char:EOLhyphen"/>led in a peaceable way according to his attain<g ref="char:EOLhyphen"/>ments to contribute his assistance. Wherin haply something may be brought to remembrance, that others have formerly usefully hinted (for there is nothing new under the Sun.) And somewhat added to that which way have been then pub<g ref="char:EOLhyphen"/>lished
+<pb n="4" facs="tcp:115937:3"/>and desired, This being a time wherein such things are expected to be accepted and accomplished. It is not probable that all these particulars will please all People, But that some will dis-rellish many of them. Most Gardens have their weeds incident, and few fields without some flowers. This Treatise sub<g ref="char:EOLhyphen"/>mits (so far as concerns that) to the better pro<g ref="char:EOLhyphen"/>visions of the Act for a Representative: so long in agitation not yet published. As also in point of Law, to the briefer, plainer and more equall Rules, which may have been drawn up by the appointed Regulators thereof, And what ever else herein shall be found superfluous or defective, Let him that hath received more time and Talent rather excuse and amend then upbraid (what is tendered, not being laid down with desire of particular dammage, but for Pub<g ref="char:EOLhyphen"/>like advantage, or so much for Position as Question,) Although as times have hitherto been.<note n="a" place="margin">Job. 12, 5.</note> He that is ready to slip with his feet is as a lamp despised in the thought of him that is at ease.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="5" facs="tcp:115937:3"/>
+            <head>A Mite to the Treasury.</head>
+            <div n="1" type="part">
+               <head>
+                  <hi>1.</hi> Conservators.</head>
+               <p>
+                  <seg rend="decorInit">W</seg>Hether it be not necessary for the People that about<note n="b" place="margin">Pro. 11.14.</note> ten Faithfull uninterested, unbiassed &amp; able Per<g ref="char:EOLhyphen"/>sons, should be appointed as Con<g ref="char:EOLhyphen"/>servators,<note n="c" place="margin">and 15.22.</note> to mannage the affairs of the Common-Wealth, to re<g ref="char:EOLhyphen"/>ceive and answer addresses, hear and relieve Complaints, and do such other things as are Just, and may be requisite for them, untill about the first of June next, by which time an equall Representative to be chosen.</p>
+            </div>
+            <div n="2" type="part">
+               <head>
+                  <hi>2.</hi> Representative.</head>
+               <p>VVHether in that time it be not expedient for the Free-People who have a liberty of choise, to consider of<note n="d" place="margin">Pro. 2.2. righteous.</note> fit men for Members. their numbers and<note n="e" place="margin">and 28.11. Uunderstand<g ref="char:EOLhyphen"/>ing.</note> Qualifications<note n="f" place="margin">Pro. 19.22. no liar.</note>, For as <hi>Job</hi> saith.<note n="g" place="margin">Job. 32.9.</note>
+                  <hi>Great men are not [always] wise, neither do the Aged understand Judgment:</hi> And whether any Members of the late Parliament, Lawyer, or party interested in Tithes be sitting for choise, and how many of those chosen shall have power to debate, and how many to Enact. And whe<g ref="char:EOLhyphen"/>ther
+<pb n="6" facs="tcp:115937:4"/>a Representative may not in course be chosen by the People every second year from this.</p>
+            </div>
+            <div n="3" type="part">
+               <head>
+                  <hi>3.</hi> Their work and time.</head>
+               <p>VVHether each Member ought not to receive a Commission from the People choosing, ex<g ref="char:EOLhyphen"/>pressing for what time, and to what end they are to serve: That is to say not exceeding twelve monethes, and therein<note n="h" place="margin">M<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>c. 6.8.</note>
+                  <hi>to do Justice, Love Mercy, &amp;c.</hi> And to be accomptable to successors in case of breach of trust.</p>
+            </div>
+            <div n="4" type="part">
+               <p n="4">
+                  <hi>4.</hi> Their power.</p>
+               <p>HOW far are they to be intrusted concerning Re<g ref="char:EOLhyphen"/>ligion, Lawes, and Liberties. In the first to propagate the Gospel,<note n="i" place="margin">Psal. 138.2.</note> but not to<note n="k" place="margin">Eccl. 8.8.</note> persecute.<note n="l" place="margin">Prov. 21.30.</note> In the second not to make any prejudiciall Act. And then not to do any thing contrary to the Peoples birth-right, priviledges, and proprieties, already in great measure provided for, by <hi>The Great Charter of the Liberties of England, and the Petition of Right.</hi>
+               </p>
+            </div>
+            <div n="5" type="part">
+               <head>
+                  <hi>5.</hi> Names of good received, and evill delivered from, please not.</head>
+               <p>WHether from such as shall succeed, will the names onely of those good words, <hi>Common-wealth, free-State, free People, Iustice, Liberty, Priviledges, Ease,</hi>
+                  <note n="m" place="margin">Jer. 6.14.</note>
+                  <hi>peace, safety,</hi> &amp;c. please the people, if the things them<g ref="char:EOLhyphen"/>selves are denied? Or if the names onely of <hi>Tyranny, Oppression, Extortion, Prerogative, Monopoly,</hi> &amp;c. be removed, and the things themselves remain, will they be satisfied?</p>
+            </div>
+            <div n="6" type="part">
+               <head>
+                  <hi>6.</hi> Those that do best, most honored.</head>
+               <p>WIll not the names of those that act faithfully, and with indeed publick spirits, and do the best years service for the peoples good, be most honored in their lives and<note n="n" place="margin">Psa. 112.6. Pro. 10.7.</note> posterities; and may not those that act
+<pb n="7" facs="tcp:115937:4"/>contrary, slowly, selfishly and unjustly, remember that when their day is done, they will go out as the snuff of a Candle.</p>
+            </div>
+            <div n="7" type="part">
+               <head>
+                  <hi>7.</hi> Char acters of good and evill Members.</head>
+               <p>WHether are not such as these corrupt members to be<note n="o" place="margin">Psal 12.4, 5. &amp; Prov. 28.15.</note> imperious,<note n="p" place="margin">1 Pet. 5.3.</note> to rule by will and power,<note n="q" place="margin">Pro. 3.28. &amp; Job 19.7.</note> to delay, and therein to deny justice, to seek &amp; set up them<g ref="char:EOLhyphen"/>selves, their privat interests and relations without desert, supposing themselves accountable to none,<note n="r" place="margin">Rom. 9.20.</note> though they condemn others for the same principle; not consi<g ref="char:EOLhyphen"/>dering that they are under him who hath the govern<g ref="char:EOLhyphen"/>ment upon his own<note n="s" place="margin">Isa. 9.6.</note> shoulder, for<note n="t" place="margin">Pro. 17.23. Esai. <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>5 23.</note> privat profit and si<g ref="char:EOLhyphen"/>nister respect, to cherish and countenance<note n="u" place="margin">Pro. 24.2<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> enemies,<note n="w" place="margin">Job 34.28.</note> to sleight and reject friends; and thus to tread under feet the stairs by which they ascend. And on the contrary, are not good Officers, Rulers and Generals thus descri<g ref="char:EOLhyphen"/>bed?<note n="x" place="margin">Job 29.10. &amp;c.</note> The Nobles held their peace, and their tongue cleaved to the roof of their mouth. When the ear heard me, then it blessed me, and when the eye saw me it gave witness to me: Because I delivered the poor that cri<g ref="char:EOLhyphen"/>ed, and the fatherless, and him that had none to help him. The blessing of him that was ready to perish came upon me, and I caused the widows heart to sing for joy. I put on righteousness and it cloathed me, my judgment was a Robe and a Diadem. I was eys to the blind, and feet was I to the lame: I was a father to the poor, and the cause which I knew not, I searched out; and I brake the jaws of the wicked, and pluckt the spoyl out of his teeth. Then I said, <hi>I</hi> shall die in my nest, and <hi>I</hi> shall multiply my days as the sand. My root was spread out by the waters, and the dew lay all night upon my branch. My glory was fresh in me, &amp; my Bow was renewed in my hand. Unto me men gave ear and
+<pb n="8" facs="tcp:115937:5"/>waited, and kept silence at my counsel. After my words they spake not again, &amp; my speech dropped upon them. And they waited for me as for the rain, and they opened their mouth wide as for the later rain: if I laughed on thé they believed it not, &amp; the light of my countenance they cast not down: <hi>I</hi> chose out their way, and sate chief, and dwelt as a King in the army, as one that com<g ref="char:EOLhyphen"/>forteth the mourners.</p>
+            </div>
+            <div n="8" type="part">
+               <head>
+                  <hi>8.</hi> People must be conformable.</head>
+               <p>MUst not the people also be moderate,<note n="y" place="margin">Pro. 12.15.</note> peaceable, and conformable to good laws, and diligent to see them executed; not murmuring and saying,<note n="z" place="margin">Eccl. 7.10.</note> What is the cause the former days were better then these? For thou dost not enquire wisely concerning this, nor should they lean too much to their own understandings to the augmentation of divisions. Are not all capable of be<g ref="char:EOLhyphen"/>ing usefull in their place? Is not<note n="a" place="margin">Job 15.15.</note> he that doth righte<g ref="char:EOLhyphen"/>ousness righteous; and he that doth otherwise contra<g ref="char:EOLhyphen"/>ry, though of good name. Queen <hi>Elizabeth</hi> used to say of her Secretary of State, being troubled with the Gout, That she made much of him, not for his bad legs, but for his good head.<note n="*" place="margin">
+                     <hi>William Cecil</hi> L. <hi>Burleigh,</hi> &amp; also L. Trea<g ref="char:EOLhyphen"/>surer.</note>
+               </p>
+            </div>
+            <div n="9" type="part">
+               <head>
+                  <hi>9</hi> Work undone.</head>
+               <p>AMongst other, will not the work ensuing lie before a Representative, though it hath been lately answe<g ref="char:EOLhyphen"/>red us, What would we or could we have more then we had from those then in power, which hath not been done hitherto? And if both come in competition for choyce, may not the<note n="*" place="margin">Matth. 12.1, 2, 3, 4, 5,</note> Way rather then the WORK be dispensed withall?</p>
+            </div>
+            <div n="10" type="part">
+               <head>
+                  <hi>10.</hi> Committee erected to receive and redress grievances.</head>
+               <p>WHether amongst all other Committees to be chosen by them, wil it not be necessary to establish
+<pb n="9" facs="tcp:115937:5"/>one to receive and hear all complaints in course that shall come before them, to recommend such as are weighty for speedy redress, and to cast out such as shall be found causless and clamorous. That so tedious and chargeable attendance may be prevented, and former unjust and extrajudiciall censures and sentences, again considered and repealed.</p>
+            </div>
+            <div n="11" type="part">
+               <head>
+                  <hi>11.</hi> God exalted.</head>
+               <p>VVHether prime and speciall regard ought not to be had to the<note n="b" place="margin">1 Sam. 2.30. Hag 1.4.</note> glory of God, the<note n="c" place="margin">Psal 111.9.</note> name of Jesus Christ,<note n="d" place="margin">Mat 13.6. Phil. 2.10.</note> his Interest and People in their Peace, Protection, Provision, and Priviledges, in the good of souls.<note n="e" place="margin">Pro. 11.30.</note>
+               </p>
+            </div>
+            <div n="12" type="part">
+               <head>
+                  <hi>12.</hi> Christians united.</head>
+               <p>VVHether we are indeed like Gospel Christians while we bite and devour one another, and so little or seldom exercise that golden Rule,<note n="f" place="margin">Mat. 7.12.</note> To do un<g ref="char:EOLhyphen"/>to all men as we would they should do unto us: so far from love to Enemies that many hate their Brethren what little compassion, or bowels amongst professors: in case of offence, that cannot forgive<note n="g" place="margin">Luke 17 3.</note> seven times, and yet expect to be forgiven of God though the most Righteous of them sinneth as oft in one day.</p>
+            </div>
+            <div n="13" type="part">
+               <head>
+                  <hi>13.</hi> Hope directed.</head>
+               <p>HAve we not hitherto been hindered: having erred, in expecting deliverance from particular men and Interests, when it is onely in the Lord, who alone <hi>can make crooked things strait,</hi>
+                  <note n="i" place="margin">Eze. 21.26.27.</note> mountains Levell, Exalt valleyes.<note n="k" place="margin">Eccl. <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.15.</note>
+                  <hi>Number those things that are wanting,</hi> and bring Order out of Confusion.</p>
+            </div>
+            <div n="14" type="part">
+               <head>
+                  <hi>14.</hi> Errors asswaged.</head>
+               <p>WHether the Truthes of the Rock of Ages will not still stand, though the black and boisterous
+<pb n="10" facs="tcp:115937:6"/>waves of that which is indeed Heresie and Error may beat against them,<note place="margin">Mat. 13.28.29.</note> And whether to violently prevent them in their course, be not to augment them in their force, when as otherwise those waves would beat them<g ref="char:EOLhyphen"/>selves to pieces against them.</p>
+            </div>
+            <div n="15" type="part">
+               <head>
+                  <hi>15.</hi> People exhorted.</head>
+               <p>WHether we ought not wisely to distinguish be<g ref="char:EOLhyphen"/>tween waiting upon God,<note place="margin">Hab. 2.3.</note> so as not to force the fruit of his promises before their maturity, knowing, He that believes makes not hast. And neglecting to follow: when God is pleased to go before us and clearly cal us.</p>
+            </div>
+            <div n="16" type="part">
+               <head>
+                  <hi>16.</hi> Law regulated.</head>
+               <p>WHether the Law which should be the peoples re<g ref="char:EOLhyphen"/>medy and preservation, Hath not (as it hath been hitherto practised) been their disease, and (to some) destruction. And is it in it self any other then Equity and Right reason, may not such as understand them, come to apprehend it? If Regulated would there be such Ambiguitie in Titles, Debts, Tresp asses &amp;c the most materiall things in it? And whether the Intricasie uncertainty and prolixity thereof was not the invention of that Function, considering, That by that craft they got their livings, though themselves thereby ma<g ref="char:EOLhyphen"/>ny times and in many Cases, understood it not, The most reputed learned Lawyers, being often of contra<g ref="char:EOLhyphen"/>ry oppinions in the same Case.</p>
+            </div>
+            <div n="17" type="part">
+               <head>
+                  <hi>17.</hi> Publique Register for Counties or Provinces.</head>
+               <p>IS not a Publique Register in each County (or Pro<g ref="char:EOLhyphen"/>vince, if such Division shall be found more conve<g ref="char:EOLhyphen"/>nient) of great use and much wanted, And a monethly Court in the same in three whereof at utmost, all suites to be determined equally and impartially, wherein pleading to be permitted by a mans self or Friend,
+<pb n="11" facs="tcp:115937:6"/>As to matter of debt, wherein the Law is most usefull to us: might not the Register rather use a like form to that under-written, then the senceless writs and other process, late, if not still in use.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="form">
+                           <p>WHereas <hi>A. B.</hi> of <hi>C.</hi> in the County (or Province) of <hi>D.</hi> being to me<note n="1" place="margin">That is by himself or Friends, so as not to vexati<g ref="char:EOLhyphen"/>ously or inju<g ref="char:EOLhyphen"/>riously com<g ref="char:EOLhyphen"/>plain and not prosecute.</note> sufficiently known, hath com<g ref="char:EOLhyphen"/>plained that <hi>E. F.</hi> of <hi>G.</hi> in this county (or Province) doth owe and nnjustly detain from him the due debt and summe of H. <hi>l.</hi> These are therefore to warn the said <hi>E. F.</hi> forthwith to pay the said sum, and the charge of this process, and send or bring the acquit<g ref="char:EOLhyphen"/>tance thereof within I. days next after the date hereof, or else that he do without fail or excuse appear at the next Court to be holden for this County (or Province) being on the <hi>K.</hi> day of <hi>L.</hi> next by ten before-noone, to shew cause to the contrary which if the said <hi>E. F.</hi> shall deny or delay to do.<note n="2" place="margin">Respect may be had by the Regi<g ref="char:EOLhyphen"/>ster to the distance of place, and if the party be absent, whe<g ref="char:EOLhyphen"/>ther wilfully or by his Reall occasions. Charge of witnesses, &amp;c. To be paid by the party in fault. Charge of the summons 4. d. Carefull Officer for serving it in the Town 3. d. and 3. d. a mile from it. To enter when he delivered it, where and to whom, and the Answer.</note> The said debt will be taken for granted as due, and Issues of distress proceed upon his Goods and Chattels for the same, of which the leaving of these presents at his house is to be suf<g ref="char:EOLhyphen"/>ficient notice.</p>
+                           <closer>
+                              <dateline>Given under my hand and seal <date>the <hi>M.</hi> day of <hi>N.</hi> 1653.</date>
+                              </dateline>
+                              <signed>
+                                 <hi>O. P.</hi> Register Seal.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <div type="section">
+                  <head>Severall Books.</head>
+                  <p>ALL Process and Orders to be entred in peculiar books, and to have in them a preamble for satis<g ref="char:EOLhyphen"/>faction, reciting what is said on both sides, and why so concluded.</p>
+               </div>
+               <div type="section">
+                  <head>Form.</head>
+                  <p>A Brief and full form of Bills, Bonds, Judgments, Executions, &amp;c. to be agreed upon, such as may be authentick.</p>
+               </div>
+               <div type="section">
+                  <pb n="12" facs="tcp:115937:7"/>
+                  <head>Wills.</head>
+                  <p>WIlls, Inventories and Rentals to be registred within one moneth after the death of the party, and care taken they may be performed, so that Children, Exe<g ref="char:EOLhyphen"/>cutors, nor those to whom Gifts are bequeathed, may not be wronged, nor creditors defrauded.</p>
+               </div>
+               <div type="section">
+                  <head>Land Registred.</head>
+                  <p>ALl Land forthwith registred, and claimers of pre<g ref="char:EOLhyphen"/>sent possession summoned to come in and produce their Right, that the Title may be in the true owner the better confirmed and secured.</p>
+               </div>
+               <div type="section">
+                  <head>Book for engaged lands, &amp;c. to be registred.</head>
+                  <p>NO Judgement confessed by any, nor Execution or other process; no sale nor mortgage of House or Land, or Ship ingaged, to be authentick, unless it be registred. Wherein first the value, then debt the in<g ref="char:EOLhyphen"/>gagement is for, may be registred, and that to be kept secret from all persons but those that are really concer<g ref="char:EOLhyphen"/>ned in the purchase, mortgage, or ingagement.</p>
+               </div>
+               <div type="section">
+                  <head>The Courts Duty and Power.</head>
+                  <p>SHould not the Court be such as ought to have the causes rather then<note n="l" place="margin">Pro. 28.21. and Job. 13.10 and 24.23. Ia. 2.2.</note> persons of men in estimation,<note n="m" place="margin">Pro. 17.23.</note> free from all bribery and perjury<note n="n" place="margin">and 21.3.</note> to do justice and judge<g ref="char:EOLhyphen"/>ment, which is more acceptable to God then sacrifice<note n="o" place="margin">and 31.9.</note>; upon knowledge or good information of just cause, to give time for debts, not exceeding three Courts. As al<g ref="char:EOLhyphen"/>so to suspend forfeitures upon reasonable cause shewen, not exceeding six Courts. As likewise, to expell all needless, causless, and malicious suits.</p>
+               </div>
+               <div type="section">
+                  <head>Fraudulent Debtors prevented.</head>
+                  <p>THat some reall and effectuall remedy may be provi<g ref="char:EOLhyphen"/>ded against making over Estates to defraud Cre<g ref="char:EOLhyphen"/>ditors.</p>
+               </div>
+            </div>
+            <div n="18" type="part">
+               <pb n="13" facs="tcp:115937:7"/>
+               <head>
+                  <hi>18.</hi> Corporations.</head>
+               <p>ANd for such Corporations as shall be found more convenient for publique good to be continued, that they may be regulated. And that no liberty or privi<g ref="char:EOLhyphen"/>ledge may be granted to any one Company or Society, for traffick and commerce by sea or land, more then another. If every Trade respectively must not be con<g ref="char:EOLhyphen"/>fined to its own due and proper bounds and limit, have not I as much liberty to deale in his Trade, as he in mine?</p>
+            </div>
+            <div n="19" type="part">
+               <head>
+                  <hi>19.</hi> Oathes.</head>
+               <p>THat Oathes before Rulers may not be made such matters of course,<note n="p" place="margin">Jer. 23.10.</note> whereby the solemnity of them is little regarded by many, and that the present way of administration may be reformed.</p>
+            </div>
+            <div n="20" type="part">
+               <head>
+                  <hi>20</hi> Blood for Blood.</head>
+               <p>SHall any die but for blood<note n="q" place="margin">Prov. 28.17.</note>? Is not the law, <hi>An eye for an eye, and a tooth for a tooth? &amp;c.</hi> And may not Thieves, Robbers, and Cheaters, &amp;c. make<note n="r" place="margin">Levit. 6.4.</note> Restitution four fold, or<note n="s" place="margin">Prov. 6.30.</note> seven fold, according as the circumstan<g ref="char:EOLhyphen"/>ces of the case may stand? Where restitution cannot be had, are there not many ways of corporall punish<g ref="char:EOLhyphen"/>ment to be found, to them more grievous then death? according to the nature, quality, and circumstances of the offence.<note n="t" place="margin">and 21.7.</note> Is it not robbery to refuse to do judge<g ref="char:EOLhyphen"/>ment?</p>
+            </div>
+            <div n="21" type="part">
+               <head>
+                  <hi>21.</hi> Goales &amp;c. rectified.</head>
+               <p>THe gross and palpable abuses and deceits in the Goals of <hi>Upper-bench, Fleet, Marshalsey, &amp;c.</hi> regu<g ref="char:EOLhyphen"/>lated and prevented, honest Goalers intrusted, reasona<g ref="char:EOLhyphen"/>ble fees assertain'd, and none therein detained, but such as by Law (grounded on Reason and good consci<g ref="char:EOLhyphen"/>ence) are committed.</p>
+            </div>
+            <div n="22" type="part">
+               <pb n="14" facs="tcp:115937:8"/>
+               <head>
+                  <hi>22.</hi> Tythes removed.</head>
+               <p>THat the heavy burthen of <hi>Tythes</hi> under which the people have so long groaned,<note place="margin">The before na<g ref="char:EOLhyphen"/>med L. <hi>Cecil</hi> u<g ref="char:EOLhyphen"/>sed to advise his eldest son <hi>Thomas,</hi> never to bestow any great cost, or to build any great house on an impropria<g ref="char:EOLhyphen"/>tion, as fearing the foundation might faile hereafter.</note> may be removed, [seeing the Tribe of <hi>Levi</hi> and their work is long since ceased] will it not be convenient to consider them in their temporall original constitution, at what rates they were bought? And whether the profit pul'd from the people, hath not already paid unto many much more money then they or their Ancestors paid for the pur<g ref="char:EOLhyphen"/>chase? Will not good men contribute a competent maintenance to deserving good men, without con<g ref="char:EOLhyphen"/>straint? Or may not the Representative make provi<g ref="char:EOLhyphen"/>sions out of a publique Treasury, for them that indeed preach the Gospel?</p>
+            </div>
+            <div n="23" type="part">
+               <head>
+                  <hi>23.</hi> Lords of Manors and Toll.</head>
+               <p>CAn the oppressive prerogative of Lords of Manors (in their past and present practises and power) and a Free-state consist together? Or that pilling and pol<g ref="char:EOLhyphen"/>ling by Bailiffs and such like Officers at Fairs for Toll, and elswhere, when nothing equivalent is done for it? If oppression be a Trade, and such as the people may not be without why is it complained of.</p>
+            </div>
+            <div n="24" type="part">
+               <head>
+                  <hi>24.</hi> Peoples ease minded.</head>
+               <p>ANd for the ease and welfare of the people, and re<g ref="char:EOLhyphen"/>movall of oppression, may not abundance of need<g ref="char:EOLhyphen"/>less and superfluous Officers (that save not the Com<g ref="char:EOLhyphen"/>monwealth the sallery they receive) be abated? And may not the allowances for those that have cause to be continued, be so regulated, that from the Repre<g ref="char:EOLhyphen"/>sentator to the meanest imployed, none may have more then they justly deserve for the carefull and faithful per<g ref="char:EOLhyphen"/>formance of their trust in their imployment in carrying on the Warfare of the Commonwealths welfare.</p>
+            </div>
+            <div n="25" type="part">
+               <pb n="15" facs="tcp:115937:8"/>
+               <head>
+                  <hi>25.</hi> Taxes mittigated.</head>
+               <p>ANd if Taxes cannot be yet wholly taken off, Is it not meetest, that the most<note n="u" place="margin">Prov. 22.22.23.</note> able men should bear them, as was formerly used in way of Subsidy, where<g ref="char:EOLhyphen"/>in some regard may be had to those that have gained with<note n="w" place="margin">And 13.11.</note> least pains and most<note n="x" place="margin">And 20.21.</note> oppression.</p>
+            </div>
+            <div n="26" type="part">
+               <head>
+                  <hi>26.</hi> Excise Reduced.</head>
+               <p>IF Excise may not be removed; can it not be reduced, and principally lean upon Richest, and most super<g ref="char:EOLhyphen"/>fluous Commodities, As silver, Silkes, wine, Tobacco, Sauces, Coaches, Sedans, Bevers, Scarlets, Fine Clothes, &amp;c.</p>
+            </div>
+            <div n="27" type="part">
+               <head>
+                  <hi>27.</hi> Publique debts paid.</head>
+               <p>FOr the peoples just satisfaction according to their former good affections, And for the future credit of the Nation upon occasion, Ought not the Publique Faith to be reinbursed to poor and Rich out of the Publigue Treasury.</p>
+            </div>
+            <div n="28" type="part">
+               <head>
+                  <hi>28.</hi> Wounded souldiers, Widowes and Orphans provided for.</head>
+               <p>THat the wounded souldiers &amp; Seamen,<note n="y" place="margin">Mal. 3.5.</note> Widows and Orphans, of such whose Fathers or Husbands were slain in the publique service may have Competent maintainance out of the Publique Treasury, And Greenwich House, with such other like convenient places appointed as an Hospitall for the bringing up of their male Children for the service, which besides the equity of the Cause, and the acceptableness thereof unto God, would make men valiant for their Country.</p>
+            </div>
+            <div n="29" type="part">
+               <head>
+                  <hi>29.</hi> Army Continued.</head>
+               <p>THat the Army be continued till the Representative be called, Reall Grievances removed, and the severall Counties setled in a peaceable Posture, and
+<pb n="16" facs="tcp:115937:9"/>then either paid and disbanded. Or otherwise imploy<g ref="char:EOLhyphen"/>ed as occasion shall serve.</p>
+            </div>
+            <div n="30" type="part">
+               <head>
+                  <hi>30.</hi> Free-Quarter and other publique ingage. ments allowed.</head>
+               <p>THat those Counties which have suffered much by Free Quarter, and yet have also paid Taxes equall with others may have the Arrears of their Assessments allowed them towards the same, As by the severall Acts, Ordinances and Resolves of the late Parlia<g ref="char:EOLhyphen"/>ment. And the other debts promised may be allowed.</p>
+            </div>
+            <div n="31" type="part">
+               <head>
+                  <hi>31.</hi> Equity observed.</head>
+               <p>THat no allowance be at any time hereafter made to any person whatsover, for any losse, dammage or injury he hath, may, or shall receive, but what the publique Treasury is able, and doth make good pro<g ref="char:EOLhyphen"/>portionably to every one in the like Capacity.</p>
+            </div>
+            <div n="32" type="part">
+               <head>
+                  <hi>32.</hi> Accompt of former Actions and allowances.</head>
+               <p>IS it too late to example how the Publique past and numerous Estates, Places, profits, perquesites, summes and incomes have been disposed, may not the same be justly esteemed, to be so much as having been well husbanded would with its Revenue have defrayed all the charge the publique need have been at, and yet the principall have been preserved still intire to them, And if any shal have bin found to have bin too wel paid may they not be desired for the future to lend the pub<g ref="char:EOLhyphen"/>lique so much more then others, till it is able to repay them. And if there can be an Estate recovered, Re<g ref="char:EOLhyphen"/>served and increased for the publique by a Representa<g ref="char:EOLhyphen"/>tive, Will not the Revenue of the same be very usefull to ease the People, In waging War upon good<note n="*" place="margin">Pro 20 18.</note> advice, in relieving the Fatherlesse, poor, wounded, oppressed, and Widow, repairing high wayes, Cause-wayes and
+<pb n="17" facs="tcp:115937:9"/>Bridges, making Rivers Navigable: Increasing For<g ref="char:EOLhyphen"/>reigne Trade, and discoveries.</p>
+               <div type="section">
+                  <head>Shipping increased, Seamen incouraged.</head>
+                  <p>THat Shipping and Seamen may be increased: en<g ref="char:EOLhyphen"/>couraged and preserved.</p>
+               </div>
+            </div>
+            <div n="33" type="part">
+               <head>
+                  <hi>33.</hi> Dayes, &amp;c. Reformed.</head>
+               <p>THat a Reformation of dayes, monethes, Quar<g ref="char:EOLhyphen"/>ters, years, and too great<note n="z" place="margin">Job 32.21.22.</note> Titles of men (though great power and places) may be accomplished.</p>
+            </div>
+            <div n="34" type="part">
+               <head>
+                  <hi>34.</hi> Banished Recalled.</head>
+               <p>THat the Banished may be recalled: Considering that what Passion appeared, might proceed from the oppression that was formerly suffered.</p>
+            </div>
+            <div n="35" type="part">
+               <head>
+                  <hi>35.</hi> Banck for Orphans portions.</head>
+               <p>THat a Banck or Treasury for the true securing of Orphans portions to their sure advantage be esta<g ref="char:EOLhyphen"/>blished.<note n="a" place="margin">Job. 34.3.4.5</note>
+               </p>
+            </div>
+            <div n="36" type="part">
+               <head>
+                  <hi>36.</hi> Jewes admitted.</head>
+               <p>THat equall Liberty be granted to those of the Jewish Nation to converse with us.</p>
+            </div>
+            <div n="37" type="part">
+               <head>
+                  <hi>37.</hi> Lands improved.</head>
+               <p>VVHether all possible improvement of the Com<g ref="char:EOLhyphen"/>mon-Wealths Land, and its publique profits ought not to be made and brought through honest hands into a Faithful Treasury for the Real case, benefit and commodity of the whole.</p>
+            </div>
+            <div n="38" type="part">
+               <head>
+                  <hi>38.</hi> Farthings.</head>
+               <p>WHether for the Advance of Charitie to the impo<g ref="char:EOLhyphen"/>tent, poor, and conveniencie to the people, were it
+<pb facs="tcp:115937:10"/>
+                  <pb n="18" facs="tcp:115937:11"/>not well if at the publique charge, Farthings of full or more then the value were Coyned. So that they might not be counterfeited.</p>
+            </div>
+            <div n="39" type="part">
+               <head>
+                  <hi>39.</hi> Pious Policie.</head>
+               <p>VVHether will not pious policie, the Dove, as well as the Serpent, and plain dealing in most publicke proceedings, be most prosperous? And will not<note n="b" place="margin">Luke 2 14.</note> Proclamations of Peace to all peo<g ref="char:EOLhyphen"/>ple upon safe and equall termes, be most pleasing? Are we not required, as much as in us lies, to live peaceably with all men, forgetting and forgiving injuries rather then doing any?</p>
+            </div>
+            <div n="40" type="part">
+               <head>
+                  <hi>40.</hi> Conservators deputed.</head>
+               <p>WHether may it not be requisite for a Repre<g ref="char:EOLhyphen"/>sentative at their dissolution, to authorize seven persons of known fidelitie and integritie, to be Conservators for the managing of affairs, till the succeeding Representative? And in what extraor<g ref="char:EOLhyphen"/>dinary Cases, as of Invasion, Incursion, or altera<g ref="char:EOLhyphen"/>tions, of eminent Laws to call one, to sit no longer then is necessary, and to give place to that which is to come in course. As also five just and impartiall persons for chiefe Commissioners of Appeals, be<g ref="char:EOLhyphen"/>fore whom all suits that cannot be determined in the County, or Province Courts may be in con<g ref="char:EOLhyphen"/>venient time ended. To have no Rules will be Ar<g ref="char:EOLhyphen"/>bitrary, Generall Rules will a little intrench upon some particulars, which must be submitted to for publique good.</p>
+            </div>
+            <div type="conclusion">
+               <pb n="19" facs="tcp:115937:10"/>
+               <head>The Conclusion.</head>
+               <p>THE Author was not able to provide a Banquet, and therefore it may be this Ordinary may onely please the com<g ref="char:EOLhyphen"/>mon people: For of a Table so full furnish't, can all Palats be pleased with every Mess? Surely some dishes must be disrelisht by some. Many other things in and to all these particulars, might be added; but it is now onely desired, That so much hereof as shall be found probable to promote publique good, may be propogated; for,<note place="margin">Eccles. 12.1</note>
+                  <hi>Of multitude of Books there is no</hi>
+               </p>
+               <trailer>End.</trailer>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>April</hi> 25. 1653.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="declaration">
+            <pb facs="tcp:115937:11"/>
+            <head>The Declaration of the Esquire at Arms.</head>
+            <p>FOrasmuch as the Barons of the Exchequer and other Judges of the Commonwealth of <hi>England</hi> have in their Judicature made a doubt whether the Parliament be dissolved or not, It is declared that the Parliament is dissol<g ref="char:EOLhyphen"/>ved, And that all the actions of <hi>Oliver Cromwel</hi> Esquire, Captain-General of all the English Forces, be just, honest, and legal; and that he is a just and honest man in whatsoever he enter<g ref="char:EOLhyphen"/>prised in the said affairs. And if any person or persons shall, by any colour or pretence what soever, attempt to question the Authority of the Lord General <hi>Cromwel,</hi> or disturb the peace of this Nation, the Free-born persons of <hi>England</hi> under his protection will call them to a severe account.</p>
+            <closer>
+               <signed>Witness <hi>Tho. Elslyot,</hi> Ar. Ar. Conq.</signed>
+               <dateline>Dated <date>the 7 of <hi>May.</hi> 1653.</date>
+               </dateline>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
